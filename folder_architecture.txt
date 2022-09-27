@@ -1,0 +1,50 @@
+public/
+  index.html
+src/
+  adapters/
+    usersAdapted.js
+  api/
+    users.js
+  assets/
+    audio/
+      sountrack.mp3
+    images/
+      photo.png
+    fonts/
+      ubuntu.woff2
+  components/
+    Component/
+      index.jsx
+      Component.css
+  hooks/
+    useLocalStorage.js
+  utils/
+    validation.js
+  locale/
+    en-US.json
+    es-MX.json
+  routes/
+    App.routes.jsx
+    Users.routes.jsx
+  store/
+    slices/
+      users/
+        index.js
+    index.js
+  styles/
+    main.css
+    darkMode.css
+  views/
+    Home/
+      HomeHeader/
+        index.jsx
+        HomeHeader.css
+      index.jsx
+    App.jsx
+  index.js
+.babelrc
+.env
+.env-example
+.gitignore
+package.json
+webpack.config.js
