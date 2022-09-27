@@ -1,0 +1,8 @@
+# Private Node Modules
+node_modules/
+
+# Distribution / packaging
+build/
+
+# Environments
+.env
